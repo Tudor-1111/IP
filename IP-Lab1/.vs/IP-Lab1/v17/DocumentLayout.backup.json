@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\IP-Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\IP-Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:IP-Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\Carte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:Carte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\Cititor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:Cititor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|D:\\Facultate\\IP-Lab1\\Autor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A0E44F9-4D40-4824-80E1-D17E89A7195E}|IP-Lab1.vcxproj|solutionrelative:Autor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Biblioteca.cpp",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\Biblioteca.cpp",
+              "RelativeDocumentMoniker": "Biblioteca.cpp",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\Biblioteca.cpp",
+              "RelativeToolTip": "Biblioteca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T08:51:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carte.h",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\Carte.h",
+              "RelativeDocumentMoniker": "Carte.h",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\Carte.h",
+              "RelativeToolTip": "Carte.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T08:44:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cititor.h",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\Cititor.h",
+              "RelativeDocumentMoniker": "Cititor.h",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\Cititor.h",
+              "RelativeToolTip": "Cititor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T08:44:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.h",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\Autor.h",
+              "RelativeDocumentMoniker": "Autor.h",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\Autor.h",
+              "RelativeToolTip": "Autor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T08:35:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Biblioteca.h",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\Biblioteca.h",
+              "RelativeDocumentMoniker": "Biblioteca.h",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\Biblioteca.h",
+              "RelativeToolTip": "Biblioteca.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T08:35:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IP-Lab1.cpp",
+              "DocumentMoniker": "D:\\Facultate\\IP-Lab1\\IP-Lab1.cpp",
+              "RelativeDocumentMoniker": "IP-Lab1.cpp",
+              "ToolTip": "D:\\Facultate\\IP-Lab1\\IP-Lab1.cpp",
+              "RelativeToolTip": "IP-Lab1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T08:34:50.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
